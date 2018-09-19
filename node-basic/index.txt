@@ -1,0 +1,8 @@
+Node-JS training :: 
+
+https://www.javacodegeeks.com/2013/12/node-js-synchronous-and-asynchronous-functions.html
+https://codeburst.io/node-js-vs-php-battle-of-supremacy-survival-2a16df11ff29
+
+let keyword block scoped
+
+npm install nodemon -g              //for on the fly update
