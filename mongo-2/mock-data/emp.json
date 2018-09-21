@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Rajat",
+        "lastName": "Moury",
+        "city": "Mumbai"
+    },
+    {
+        "id": 2,
+        "firstName": "Lionel",
+        "lastName": "Messi",
+        "city": "Barca"
+    },
+    {
+        "id": 3,
+        "firstName": "Amy",
+        "lastName": "DX",
+        "city": "BLR"
+    },
+    {
+        "id": 4,
+        "firstName": "Edward",
+        "lastName": "Snowden",
+        "city": "NalaSupara"
+    }
+]
