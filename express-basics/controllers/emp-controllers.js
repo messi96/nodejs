@@ -3,19 +3,19 @@ function getEmployees(req,res) {
 }
 
 function getEmployeeById(req,res) {
-    res.send('Employee details')
+    res.send('Employee details!')
 }
 
-function CreateEmployee(req,res) {
-    res.send('Create employee')
-}
+// function CreateEmployee(req,res) {
+//     res.send('Create employee')
+// }
 
 function CreateEmployee(req,res) {
-    res.send('Create employee')
+    res.send('Create employee!')
 }
 
 function DeleteEmployee(req,res) {
-    res.send('Deleted')
+    res.send('Deleted!')
 }
 
 module.exports  = {
